@@ -13,3 +13,10 @@ How to contribute:
 - report about issues in code, text and etc.
 - write code and fix errors
 - suggest how to improve user experience
+
+In-development:
+- access to download browsers
+- multi-categories
+- tags
+- addon's multi-versions
+- community system: comments, rating, abuse

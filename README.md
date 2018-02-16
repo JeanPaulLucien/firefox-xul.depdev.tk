@@ -20,3 +20,6 @@ In-development:
 - tags
 - addon's multi-versions
 - community system: comments, rating, abuse
+
+Where is repo?
+I still need to finish some tasks to update that, but you can report about issues.
